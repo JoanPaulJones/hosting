@@ -1,3 +1,13 @@
+Last login: Sat Jan  8 19:42:40 on ttys000
+Restored session: Fri  7 Jan 2022 15:29:18 GMT
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) jschweres-ltm2:~ jschweres$ python --version
+Python 3.8.8
+(base) jschweres-ltm2:~ jschweres$ 
+(base) jschweres-ltm2:~ jschweres$ pip freeze
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
